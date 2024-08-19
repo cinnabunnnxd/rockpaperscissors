@@ -1,0 +1,15 @@
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.csproj.AssemblyReference.cache
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.AssemblyInfo.cs
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.exe
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.deps.json
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.runtimeconfig.json
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.dll
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.pdb
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.dll
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\refint\rockpaperscissors.dll
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.pdb
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.genruntimeconfig.cache
+C:\Users\Naval\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\ref\rockpaperscissors.dll
